@@ -142,3 +142,4 @@ False
 * [A Bit of Fun: Fun with Bits - Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/a-bit-of-fun-fun-with-bits/)
 * [Bit Manipulation - HackerEarth](https://www.hackerearth.com/practice/notes/bit-manipulation/)
 * [Bit Twiddling Hacks - Stanford](https://graphics.stanford.edu/~seander/bithacks.html)
+* [Bitmasks for Beginners](http://codeforces.com/blog/entry/18169)
